@@ -1,0 +1,16 @@
+{
+  "name": "braydoncoyer-business-card",
+  "version": "1.0.0",
+  "description": "A fancy business card that outputs to the terminal using npx.",
+  "main": "index.mjs",
+  "scripts": {},
+  "author": "braydoncoyer",
+  "license": "MIT",
+  "bin": {
+    "braydoncoyer-business-card": "./index.mjs"
+  },
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1"
+  }
+}
